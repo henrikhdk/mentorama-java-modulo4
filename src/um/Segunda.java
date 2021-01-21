@@ -6,6 +6,6 @@ public class Segunda {
         Primeiro primeiro = new Primeiro();
         primeiro.metodoPublico();
         primeiro.metodoProtected();
-        primeiro.me
+        Primeiro.metodoEstatico();
     }
 }

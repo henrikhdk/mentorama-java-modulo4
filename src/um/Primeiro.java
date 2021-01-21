@@ -1,7 +1,16 @@
 package um;
 
 public class Primeiro {
+
+    private Integer variavel = 1;
+
+    public static Integer metodoEstatico() {
+
+        return variavel;
+    }
     public void metodoPublico {
+        metodoPublico();
+
 
     }
 
